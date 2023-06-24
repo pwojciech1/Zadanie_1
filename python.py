@@ -1,1 +1,1 @@
-python
+python to jenzyk
